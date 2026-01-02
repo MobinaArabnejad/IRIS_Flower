@@ -9,9 +9,9 @@ It was my first complete ML project built with scikit-learn, focusing on a clean
 - Splits data into train/test sets
 - Trains a Logistic Regression classifier
 - Evaluates performance using:
-  - Accuracy score
-  - Confusion matrix
-  - Classification report (optional)
+- Accuracy score
+- Confusion matrix
+- Classification report (optional)
 - Visualizes the confusion matrix as a heatmap
 
 # Tech Stack
