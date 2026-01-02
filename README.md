@@ -23,7 +23,7 @@ It was my first complete ML project built with scikit-learn, focusing on a clean
 - Seaborn
 # How to run
 ```bash
-git clone https://github.com/<your-username>/IRIS_Flower.git
+git clone https://github.com/Mobina Arabnejad/IRIS_Flower.git
 cd IRIS_Flower
 pip install numpy pandas scikit-learn matplotlib seaborn
 python Flowers.py
